@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Krish Katyal
+
 <h1 align="center">Hi 👋, I'm Krish Katyal</h1>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/krishkatyal)
