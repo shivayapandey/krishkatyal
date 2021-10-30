@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Krish Katyal
 <h1 align="center">Hi 👋, I'm Krish Katyal</h1>
-[![Linkedin Badge](https://img.shields.io/badge/-KrishKatyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krish-katyal-b689a3181)](https://www.linkedin.com/in/krish-katyal-b689a3181)
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/krishkatyal)
+<img src="https://komarev.com/ghpvc/?username=krishkatyal&label=Profile%20views&color=0e75b6&style=flat" alt="krishkatyal" />
 
 - 🔭 I’m currently working on handwritten number recognition
 - 🌱 I’m currently learning machine learning
@@ -11,7 +12,7 @@
 
 
 ## Conect with me on:
-- :link: **[Linkedin](https://www.linkedin.com/in/krish-katyal-b689a3181)** 
+[![Linkedin Badge](https://img.shields.io/badge/-KrishKatyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krish-katyal-b689a3181)](https://www.linkedin.com/in/krish-katyal-b689a3181)
 
 [![Krish's github stats](https://github-readme-stats.vercel.app/api?username=krishkatyal)](https://github.com/krishkatyal/github-readme-stats)
 &nbsp;
