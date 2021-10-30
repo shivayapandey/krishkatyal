@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Krish Katyal
 <h1 align="center">Hi 👋, I'm Krish Katyal</h1>
-
+[![Linkedin Badge](https://img.shields.io/badge/-KrishKatyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krish-katyal-b689a3181)](https://www.linkedin.com/in/krish-katyal-b689a3181)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/krishkatyal)
 
 - 🔭 I’m currently working on handwritten number recognition
