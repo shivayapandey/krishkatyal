@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning _machine learning._
 - 🤔 I’m looking for help with _learning deep learning._
 - 💬 Ask me about _Python, ML, GCP._
-- 📫 How to reach me: krishkatyal2002@gmail.com
+- 📫 Reach me at: krishkatyal2002@gmail.com
 
 
 ## Conect with me on:
