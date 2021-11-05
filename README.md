@@ -11,7 +11,7 @@
 - 📫 Reach me at: krishkatyal2002@gmail.com
 
 
-## Conect with me on:
+## Connect with me on:
 [![Linkedin Badge](https://img.shields.io/badge/-KrishKatyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krish-katyal-b689a3181)](https://www.linkedin.com/in/krish-katyal-b689a3181)
 
 [![Krish's github stats](https://github-readme-stats.vercel.app/api?username=krishkatyal)](https://github.com/krishkatyal/github-readme-stats)
