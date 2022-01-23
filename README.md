@@ -4,9 +4,9 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/krishkatyal)
 <img src="https://komarev.com/ghpvc/?username=krishkatyal&label=Profile%20views&color=0e75b6&style=flat" alt="krishkatyal" />
 
-- 🔭 I’m currently working on _handwritten number recognition._
-- 🌱 I’m currently learning _machine learning._
-- 🤔 I’m looking for help with _deep learning._
+- 🔭 I’m currently working on _Face mask detection._
+- 🌱 I’m currently learning _Deep Learning._
+- 🤔 I’m looking for help with _Computer Vision._
 - 💬 Ask me about _Python, ML, GCP._
 - 📫 Reach me at: krishkatyal2002@gmail.com.
 
