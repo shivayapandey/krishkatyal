@@ -14,6 +14,6 @@
 ## Connect with me on:
 [![Linkedin Badge](https://img.shields.io/badge/-KrishKatyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krish-katyal-b689a3181)](https://www.linkedin.com/in/krish-katyal-b689a3181)
 
-[![Krish's github stats](https://github-readme-stats.vercel.app/api?username=krishkatyal)](https://github.com/krishkatyal/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=krishkatyal&&show_icons=true&title_color=726A95&icon_color=864879&text_color=719FB0&bg_color=151515">
 &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishkatyal)](https://github.com/krishkatyal/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishkatyal&show_icons=true&title_color=726A95&icon_color=864879&text_color=719FB0&bg_color=151515">
