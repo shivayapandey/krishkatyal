@@ -24,5 +24,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=krishkatyal&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hw2xazcf5j0f1vsvizyb0zuiw&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=hw2xazcf5j0f1vsvizyb0zuiw&redirect=true)
 
 ---
